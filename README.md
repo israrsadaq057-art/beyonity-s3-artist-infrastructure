@@ -132,6 +132,11 @@ shared/
 
 ## Screenshots
 
+### S3-Buckets
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/582b909b-3949-4ca7-83ad-216f473e22af" />
+
+
 ### S3-Monitring Dashboard
 
 <img width="1920" height="1080" alt="S3_Monitring_dashboard" src="https://github.com/user-attachments/assets/f54784e2-a598-4982-b35f-f99d35125673" />
