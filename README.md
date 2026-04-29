@@ -136,6 +136,13 @@ shared/
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/582b909b-3949-4ca7-83ad-216f473e22af" />
 
+### Artists
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f553828-2d32-44f2-b5c4-29e9a2650b9c" />
+
+### Projects
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56e0ec27-144e-4eef-964f-e80b48eb1108" />
 
 ### S3-Monitring Dashboard
 
