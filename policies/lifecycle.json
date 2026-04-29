@@ -1,0 +1,28 @@
+﻿{
+  "Rules": [
+    {
+      "ID": "DeleteWIPAfter14Days",
+      "Status": "Enabled",
+      "Prefix": "wip/",
+      "Expiration": { "Days": 14 }
+    },
+    {
+      "ID": "ArchiveAfter30Days",
+      "Status": "Enabled",
+      "Prefix": "archive/",
+      "Transitions": [ { "Days": 30, "StorageClass": "GLACIER" } ]
+    },
+    {
+      "ID": "DeleteClientSharesAfter7Days",
+      "Status": "Enabled",
+      "Prefix": "client_shares/",
+      "Expiration": { "Days": 7 }
+    },
+    {
+      "ID": "DeleteTempFilesAfter1Day",
+      "Status": "Enabled",
+      "Prefix": "temp/",
+      "Expiration": { "Days": 1 }
+    }
+  ]
+}
