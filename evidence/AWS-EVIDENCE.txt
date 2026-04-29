@@ -1,0 +1,29 @@
+﻿BEYONITY S3 INFRASTRUCTURE - COMPLETE EVIDENCE
+==============================================
+Date Captured: April 29, 2026
+IT Administrator: Israr Sadaq
+AWS Account: 945504685795
+
+S3 BUCKETS (5)
+--------------
+- beyonity-3d-assets-prod-945504685795
+- beyonity-backups-945504685795
+- beyonity-client-share-945504685795
+- beyonity-logs-945504685795
+- beyonity-test-bucket-945504685795
+
+ARTIST FOLDERS (20)
+-------------------
+anna, ben, carla, david, elena, felix, grace, henry, irena, jonas
+karla, lukas, mona, niklas, olivia, paul, quinn, rachel, stefan, tina
+
+PROJECT FOLDERS (4)
+-------------------
+Project-Apex, Project-Nexus, Project-Omega, Project-Virtua
+
+FEATURES
+--------
+Versioning: ENABLED
+Transfer Acceleration: ENABLED
+HTTPS Policy: ACTIVE
+CloudWatch Alarms: 3 CONFIGURED
